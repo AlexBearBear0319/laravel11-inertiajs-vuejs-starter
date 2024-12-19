@@ -16,7 +16,7 @@ watch(search, debounce(
     (q) => router.get('/', { search: q }, { preserveState: true }), 500)
 );
 
-// Format date
+// Format date HI HI
 const getDate = (date) =>
     new Date(date).toLocaleDateString("en-us", {
         year: "numeric",
