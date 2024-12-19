@@ -22,7 +22,7 @@ const getDate = (date) =>
         year: "numeric",
         month: "long",
         day: "numeric",
-    });
+    });  HI Hi
 
 
 </script>
